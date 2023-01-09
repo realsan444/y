@@ -1132,7 +1132,7 @@ SCRIPT1.MouseButton1Down:Connect(function()
 	loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/Shadow-Developer/Shadow/master/Scripts/DarkDexExplorer.lua"))()
 end)
 SCRIIPT2.MouseButton1Click:Connect(function()
-	loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/realsan444/jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj/main/E%20hub%20E%20hub%20E%20hub"))()
+	https://raw.githubusercontent.com/realsan444/jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj/main/E%20hub%20E%20hub%20E%20hub
 	BIGHuBFRAME.Visible = false
 end)
 SCRIIIPT3.MouseButton1Down:Connect(function()
